@@ -7,6 +7,6 @@ I am a postgraduate student in the University of Glasgow's
 I work with [Dr. Domenica Veniero](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/domenicaveniero/) and [Prof. Gregor Thut](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/gregorthut/)
 
 ##Research Interests
-  *Ageing
-  *Neural oscillations
-  *Visual perception
+    * Ageing
+    * Neural oscillations
+    * Visual perception
