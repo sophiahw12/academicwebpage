@@ -12,5 +12,5 @@ I work with [Dr. Domenica Veniero](https://www.gla.ac.uk/researchinstitutes/neur
     * Visual perception
     
 ##Current Master's Project
-I will be looking at how sacades affect visual cortex excitability using TMS. 
+I will be looking at how saccades affect visual cortex excitability using TMS. 
     
