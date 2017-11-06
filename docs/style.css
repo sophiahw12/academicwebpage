@@ -1,4 +1,10 @@
-
+li {
+    display:inline-block;
+}
+#menu {
+    background-color:#98bf21;
+    text-align:center;
+}
 
 html {
   font-size: 2em;
