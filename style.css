@@ -1,7 +1,8 @@
 
+
 html {
   font-size: 2em;
-  font-family: "helvetica";
+  font-family: "Ubuntu";
   color: white;
   background-color: hsl(50%);
 }
@@ -13,7 +14,7 @@ body{
 
 h1, h2 {
   text-align: left;
-  color: hsl(100%);
+  color: hsl(80%);
 }
 
 h3 {
