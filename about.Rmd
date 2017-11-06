@@ -1,7 +1,8 @@
 ---
 title: "About"
-author: "Sophia Wheatley"
-date: "06/11/2017"
 output: html_document
 ---
 
+## Education
+    * MSc Sep 2017 - Current, MSc. Research Methods of Psychological Science, University of Glasgow
+    * MA Sep 2012 - Jun 2016 Psychology, University of Glasgow
