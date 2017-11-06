@@ -1,0 +1,33 @@
+
+html {
+  font-size: 2em;
+  font-family: "helvetica";
+  color: white;
+  background-color: hsl(50%);
+}
+
+body{
+  background-color:gray;
+  font-family: "helvetica";
+}
+
+h1, h2 {
+  text-align: left;
+  color: hsl(100%);
+}
+
+h3 {
+  font-family:"helvetica";
+}
+
+p {
+  padding: 10px;
+  line-height: 2;
+}
+
+ul {
+  font-family:"helvetica";
+  border-radius: 10px;
+  padding: 10px 30px;
+}
+

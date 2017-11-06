@@ -2,8 +2,18 @@ name: "Sophia's Academic Website"
 author: "Sophia Wheatley"  
 output_dir: "docs"  
 output:  
-  html_document:  
+  html_document: 
     self_contained: no  
-    theme: flatly  
+    theme: sandstone
+    css: style.css
 navbar:  
   title: "My First Academic Webpage"
+  right:
+    - text: Publications
+      href: publications.html
+    - text: About
+      href: publications.html#about
+    - text: Posters
+      href: publications.html#poster
+    - text: LinkedIn 
+      href: https://uk.linkedin.com/in/sophia-wheatley-a03abb15
