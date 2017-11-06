@@ -12,8 +12,8 @@ navbar:
     - text: Publications
       href: publications.html
     - text: About
-      href: publications.html#about
+      href: about.html
     - text: Posters
       href: publications.html#poster
-    - text: LinkedIn 
+    - icon: "fa fa-linkedin"
       href: https://uk.linkedin.com/in/sophia-wheatley-a03abb15
