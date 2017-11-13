@@ -2,15 +2,5 @@
 title: "Sophia Wheatley"
 ---
 
-<img src = "images/profile_pic.jpg" style="width: 30%; float:right; padding-left: 10px;"> I am a postgraduate student undertaking 'Research Methods of Psychological Science' at the University of Glasgow's
-[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
-I work with [Dr. Domenica Veniero](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/domenicaveniero/) and [Prof. Gregor Thut.](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/gregorthut/)
-
-##Research Interests
-    * Ageing
-    * Neural oscillations
-    * Visual perception
-    
-##Current Master's Project
-I will be looking at how saccades affect visual cortex excitability using TMS. 
-    
+# Welcome!
+This is a website about me!

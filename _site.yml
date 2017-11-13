@@ -1,4 +1,4 @@
-name: "Sophia's Academic Website"  
+name: "Sophia Wheatley"  
 author: "Sophia Wheatley"  
 output_dir: "docs"  
 output:  
@@ -9,11 +9,5 @@ output:
 navbar:  
   title: "My First Academic Webpage"
   right:
-    - text: Publications
-      href: publications.html
     - text: About
       href: about.html
-    - text: Posters
-      href: publications.html#poster
-    - icon: fa fa-linkedin
-      href: https://uk.linkedin.com/in/sophia-wheatley-a03abb15
