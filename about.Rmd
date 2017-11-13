@@ -1,8 +1,3 @@
----
-title: "About"
-output: html_document
----
-
 <img src = "images/profile_pic.jpg" class="left 1-col"> 
 
 I am a postgraduate student undertaking 'Research Methods of Psychological Science' at the University of Glasgow's
@@ -14,5 +9,5 @@ I will be looking at how saccades affect visual cortex excitability using TMS.
     
 # Education
 * MSc Sep 2017 - Current, MSc. Research Methods of Psychological Science, University of Glasgow
-    * Another level
+
 * MA Sep 2012 - Jun 2016 Psychology, University of Glasgow
