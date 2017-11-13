@@ -3,4 +3,7 @@ title: "Sophia Wheatley"
 ---
 
 # Welcome!
-This is a website about me!
+Welcome to my website. Find out more about me and my research interests.
+
+* [About](insert link)
+* [Research Interests](insert link)
