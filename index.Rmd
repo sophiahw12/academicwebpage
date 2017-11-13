@@ -1,5 +1,4 @@
 <div class="container">
-<div class="visible-lg visible-md visible-sm" style="height: 35px;">&nbsp;</div>
 <div class="col-md-8 center-block">
 # Welcome!
 Welcome to my website. Find out more about me and my research interests.
