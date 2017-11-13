@@ -2,3 +2,29 @@
   font-size: 2em;
   color: #5680E9 !important;
 }
+
+.navbar-nav>li>a {
+  font-size: 1.2em;
+  color: #333 !important
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.navbar-header {
+    float: left;
+    padding: 15px 0px 0px 0px ;
+    text-align: center;
+    width: 100%;
+}
+.navbar-brand {
+  float:none;
+  margin-left: -0px !important;
+}
