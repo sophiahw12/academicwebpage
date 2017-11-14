@@ -1,13 +1,20 @@
-<div class="container">
-<div class="col-md-8 center-block">
-# Welcome!
-Welcome to my website. Find out more about me and my research interests.
+<div class="fluid-row">
+<div class="row">&nbsp;</div>
+<div class="row">
+
+<div class="col-md-8 col-sm-10 col-sm-offset-1 col-md-offset-2">
+
+# Welcome
+<hr>
+... to my website. Find out more about me and my research interests.
 
 * [About](insert link)
 * [Research Interests](insert link)
 
-</div>
+<div style = "margin-top: 20px;">
+<img src = "images/eeg_adlershof.jpg" class = "col-md-4 nopadding"> <img src = "images/glasgow_uni_pic.jpg" class = "col-md-4 nopadding"> <img src = "images/eog_recording.jpg" class = "col-md-4 nopadding">
 </div>
 
-
-<p><img src = "images/eeg_adlershof.jpg" class = "col-md-4"> <img src = "images/glasgow_uni_pic.jpg" class = "col-md-4"> <img src = "images/eog_recording.jpg" class = "col-md-4"></p>
+</div>
+</div>
+</div>

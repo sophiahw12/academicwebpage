@@ -1,25 +1,32 @@
-<img src = "images/profile_pic.jpg" class="left 1-col"> 
+<div class="fluid-row">
+<div class="row">&nbsp;</div>
+<div class="row">
 
+<div class="col-md-2 hidden-sm hidden-xs"><img src = "images/profile_pic.jpg" class=""></div>
+
+<div class="col-md-8 col-sm-10 col-sm-offset-1 col-md-offset-0">
+
+# About Me
+<hr>
 I am a postgraduate student undertaking 'Research Methods of Psychological Science' at the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
 I work with [Dr. Domenica Veniero](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/domenicaveniero/) and [Prof. Gregor Thut.](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/gregorthut/)
 
 # Master's Project
+<hr>
 I will be looking at how saccades affect visual cortex excitability using TMS. 
     
 # Education
+<hr>
 * Sep 2017 - Current, M.Sc. Research Methods of Psychological Science, University of Glasgow
 
 * Sep 2012 - Jun 2016, M.A. Psychology, University of Glasgow
 
-# Experience 
+# Experience
+<hr>
 Having completed a Bachelor's degree in Psychology I have gained some valuable skills needed for my future career in research. Furthermore I have spent time working as a lab assistant abroad in Germany at Humboldt zu Universität Berlin where I had hands-on experience on conducting experiments using EEG. Currently I am using single-pulse TMS techniques along with EOG to measure eye movement data.
 
 
-
-
-
-
-
-
-
+</div>
+</div>
+</div>
