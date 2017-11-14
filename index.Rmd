@@ -8,3 +8,6 @@ Welcome to my website. Find out more about me and my research interests.
 
 </div>
 </div>
+
+
+<p><img src = "images/eeg_adlershof.jpg" class = "col-md-4"> <img src = "images/glasgow_uni_pic.jpg" class = "col-md-4"> <img src = "images/eog_recording.jpg" class = "col-md-4"></p>
