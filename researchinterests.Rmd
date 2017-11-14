@@ -7,9 +7,12 @@
 # Research Interests
 <hr>
 * Ageing
-<!--    * Mostly bladibklah. -->
+    * Age-related changes that occur in healthy older people
 * Neural oscillations
+    * Functional role in cognitive tasks
 * Visual perception
+    * Visual attention
+    * Early visual processing
 
 </div>
 </div>
