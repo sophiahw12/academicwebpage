@@ -12,16 +12,6 @@ I am a postgraduate student undertaking 'Research Methods of Psychological Scien
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
 I work with [Dr. Domenica Veniero](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/domenicaveniero/) and [Prof. Gregor Thut](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/gregorthut/).
 
-# Master's Project
-<hr>
-A visual percept called ’phosphene’, a flash or flicker of light in the visual field, can be
-elicited by activation of the visual cortex. In this project, visual cortex excitability will be tested by assessing
-the rate at which participants perceive phosphenes. To test the effect of rapid eye movements
-called saccades (to the left/right) on phosphene perception rates, blindfolded participants will
-make horizontal saccades followed by single-pulse occipital transcranial magnetic stimulation
-(TMS). The aim of this experiment is to investigate the activation of the early visual
-cortex through saccadic eye movements.
-
 # Education
 <hr>
 * Sep 2017 - Current, M.Sc. Research Methods of Psychological Science, University of Glasgow
