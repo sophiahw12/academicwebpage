@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -184,6 +186,7 @@ $(document).ready(function () {
       <ul class="nav navbar-nav">
         <li><a href="about.html">About</a></li>
         <li><a href="researchinterests.html">Research Interests</a></li>
+        <li><a href="mastersproject.html">Research Interests</a></li>
       </ul>
     </div><!--/.nav-collapse -->
     </div>
@@ -201,7 +204,7 @@ $(document).ready(function () {
   <p>© Sophia Wheatley, 2017</p>
   <p>Contact: sophiahwheatley (at) gmail.com</p>
   <a href="https://twitter.com/aihpos_wheatley" title="Twitter"<i style="font-size:24px" class="fa">&#xf099;</i></a>
-  <a href="https://www.linkedin.com/in/sophia-wheatley-a03abb15/" title="Linkedin"<i style="font-size:24px" class="fa">&#xf08c;</i></a>
+  <a href="https://www.linkedin.com/in/sophiawheatley/" title="Linkedin"<i style="font-size:24px" class="fa">&#xf08c;</i></a>
 </footer>
 
 <div class="fluid-row" id="header">
@@ -226,25 +229,20 @@ $(document).ready(function () {
 <div id="about-me" class="section level1">
 <h1>About Me</h1>
 <hr>
-<p>I am a postgraduate student undertaking ‘Research Methods of Psychological Science’ at the University of Glasgow’s <a href="http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/">Institute of Neuroscience and Psychology</a>. I work with <a href="https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/domenicaveniero/">Dr. Domenica Veniero</a> and <a href="https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/gregorthut/">Prof. Gregor Thut</a>.</p>
-</div>
-<div id="masters-project" class="section level1">
-<h1>Master’s Project</h1>
-<hr>
-<p>A visual percept called ’phosphene’, a flash or flicker of light in the visual field, can be elicited by activation of the visual cortex. In this project, visual cortex excitability will be tested by assessing the rate at which participants perceive phosphenes. To test the effect of rapid eye movements called saccades (to the left/right) on phosphene perception rates, blindfolded participants will make horizontal saccades followed by single-pulse occipital transcranial magnetic stimulation (TMS). The aim of this experiment is to investigate the activation of the early visual cortex through saccadic eye movements.</p>
+<p>I am a recent postgraduate from the University of Glasgow and studied ‘Research Methods of Psychological Science’ in <a href="http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/">Institute of Neuroscience and Psychology</a>. My supervisors were <a href="https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/domenicaveniero/">Dr. Domenica Veniero</a> and <a href="https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/gregorthut/">Prof. Gregor Thut</a>.</p>
 </div>
 <div id="education" class="section level1">
 <h1>Education</h1>
 <hr>
 <ul>
-<li>Sep 2017 - Current, M.Sc. Research Methods of Psychological Science, University of Glasgow</li>
+<li>Sep 2017 - Sep 2018, M.Sc. Research Methods of Psychological Science, University of Glasgow</li>
 <li>Sep 2012 - Jun 2016, M.A. Psychology, University of Glasgow</li>
 </ul>
 </div>
 <div id="experience" class="section level1">
 <h1>Experience</h1>
 <hr>
-<p>Having completed a Bachelor’s degree in Psychology I have gained some valuable skills needed for my future career in research. Furthermore I have spent time working as a lab assistant abroad in Germany at Humboldt University of Berlin where I had hands-on experience on conducting experiments using EEG. Currently I am using single-pulse TMS techniques along with EOG to measure eye movement data.</p>
+<p>Having completed my undergraduate and postgraduate studies I hope to continue a career in research by undertaking a PhD sometime in the near future. At the moment I am residing in Germany and hope to apply my statistical and experimental methods knowledge in the field Data Science.</p>
 </div>
 </div>
 </div>
