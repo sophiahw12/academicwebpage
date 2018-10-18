@@ -8,19 +8,17 @@
 
 # About Me
 <hr>
-I am a postgraduate student undertaking 'Research Methods of Psychological Science' at the University of Glasgow's
-[Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
-I work with [Dr. Domenica Veniero](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/domenicaveniero/) and [Prof. Gregor Thut](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/gregorthut/).
+I am a recent postgraduate from the University of Glasgow and studied 'Research Methods of Psychological Science' in [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
+My supervisors were [Dr. Domenica Veniero](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/domenicaveniero/) and [Prof. Gregor Thut](https://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/staff/gregorthut/).
 
 # Education
 <hr>
-* Sep 2017 - Current, M.Sc. Research Methods of Psychological Science, University of Glasgow
+* Sep 2017 - Sep 2018, M.Sc. Research Methods of Psychological Science, University of Glasgow
 * Sep 2012 - Jun 2016, M.A. Psychology, University of Glasgow
 
 # Experience
 <hr>
-Having completed a Bachelor's degree in Psychology I have gained some valuable skills needed for my future career in research. Furthermore I have spent time working as a lab assistant abroad in Germany at Humboldt University of Berlin where I had hands-on experience on conducting experiments using EEG. Currently I am using single-pulse TMS techniques along with EOG to measure eye movement data.
-
+Having completed my undergraduate and postgraduate studies I hope to continue a career in research by undertaking a PhD sometime in the near future. At the moment I am residing in Germany and hope to apply my statistical and experimental methods knowledge in the field Data Science. 
 
 </div>
 </div>
