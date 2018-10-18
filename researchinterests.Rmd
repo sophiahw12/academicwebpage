@@ -12,7 +12,6 @@
     * Functional role in cognitive tasks
 * Visual perception
     * Visual attention
-    * Early visual processing
 
 </div>
 </div>
