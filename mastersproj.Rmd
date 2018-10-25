@@ -9,7 +9,7 @@
 A visual percept called ’phosphene’, a flash or flicker of light in the visual field, can be elicited by activation of the visual cortex. In this project, visual cortex excitability was tested by assessing the rate at which participants perceived phosphenes. To test the effect of rapid eye movements called saccades (to the left/right) on phosphene perception rates, blindfolded participants made horizontal saccades followed by single-pulse occipital transcranial magnetic stimulation (TMS). The aim of this experiment was to investigate the oscillatory pattern of the early visual cortex activity after performing saccadic eye movements.
 Below you can have a look at my project poster which I presented at the [8th IMPRS NeuroCom Summer School](https://imprs-neurocom.mpg.de/summerschool2018) in Leipzig. 
 
-<a href="https://github.com/sophiahw12/academicwebpage/blob/master/images/Poster.pdf">My poster</a>
+<a href="https://github.com/sophiahw12/academicwebpage/raw/master/images/Poster.pdf">My poster</a>
 
 </div>
 </div>
